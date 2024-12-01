@@ -147,7 +147,6 @@
       "timeout": 25
     },
 
-    {"key":"无忧短剧","name":"🌈无忧┃短剧","type":3,"api":"csp_Duanj","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},"timeout":10},
     {"key":"在线短剧","name":"👌🏻在线┃短剧","type":3,"api":"csp_Duanju","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},"timeout":10},
 {"key": "csp_Nmys","name": "🕵农民┃APP","type": 3,"playerType": "2","api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://vip.wwgz.cn/"},
 
@@ -492,6 +491,13 @@
 {"key":"六月听书","name":"📚️听书┃六月","type":3,"api":"./lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/js/六月听书.js"},
 {"key": "csp_Kugou","name": "🐶┃酷狗","type": 3,"api": "csp_Kugou","searchable": 1,"changeable": 0},
 
+{"key": "hipy_js_KTV歌厅[听]","name": "🎤KTV歌厅(drpy_t3)","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./lib/js/KTV歌厅[听].js"},
+
+{"key": "DJ呦呦音乐网","name":"🎧DJ呦呦音乐","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/json/DJyyyyw.json"},
+
+{"key":"酷奇","name":"🎤酷奇┃MV","type": 3,"api":"./lib/drpy2.min.js","ext":"./lib/js/酷奇MV.js","style":{"type":"rect","ratio":1.597},"searchable": 0,"quickSearch": 0,"changeable":0},
+
+{"key": "js_a8音乐","name": "🎸A8音乐","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/js/a8yy.js"}
 ],
 
   "parses":[
