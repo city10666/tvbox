@@ -1,0 +1,5 @@
+{"key":"爱奇异","name":"🎦爱奇艺(官)","type":3,"api":"./lib/drpy_libs/drpy2.min.js","ext":"./lib/js/爱奇艺.js"},
+{"key":"优酷","name":"🎦优酷(官)","type":3,"api":"./lib/drpy_libs/drpy2.min.js","ext":"./lib/js/优酷.js"},
+{"key":"腾讯","name":"🎦腾讯VIP(官)","type":3,"api":"./lib/drpy_libs/drpy2.min.js","ext":"./lib/js/腾讯VIP.js"},
+{"key":"芒果","name":"🎦芒果(官)","type":3,"api":"./lib/drpy_libs/drpy2.min.js","ext":"./lib/js/芒果.js"},
+{"key":"搜狗","name":"🎦搜狗(官)","type":3,"api":"./lib/drpy_libs/drpy2.min.js","ext":"./lib/js/搜狗.js"},
