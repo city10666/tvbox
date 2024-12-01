@@ -263,6 +263,7 @@
 {"key":"圣城影视","name":"🎦圣城","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/json/sc1080.json"},
 {"key":"米爱影视","name":"🎦米爱","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/json/miaiys.json"},
 {"key":"HDmoli","name":"🎦魔力高清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/json/HDmoli.json"},
+{"key": "高清在线","name": "🎦高清在线","type": 3,"api": "csp_XBPQ","ext": {"简介":"剧情介绍: +stui-pannel_bd\">&&</div>","线路数组":"stui-pannel__head bottom-line active clearfix\">&&</div>","分类url": "https://www.gxfiber.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类": "短剧$duanju#电视剧$dsj#电影$dy#动漫$dm#综艺$zy"}},
 {"key":"lzi","name":"🎦量子资源","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/json/liangzi.json"},
 {"key":"csp_xBPQ睛天影视","name":"🎦睛天影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/json/睛天影视.json"},
 {"key":"非凡资源","name":"🎦非凡资源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/json/ffzy.json"},
