@@ -266,7 +266,7 @@
       },
       "timeout": 25
     },
-],
+
 
   "parses":[
     {"name":"-8090g-","type":0,"url":"https://www.8090g.cn/jiexi/?url="},
