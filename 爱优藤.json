@@ -21,8 +21,101 @@
             "ua": "okhttp/3",
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
             "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        }
+        },
 
+  	    	            {
+            "name": "③猫TV线路(EXO)",
+            "type": 0,
+            "url": "http://rihou.cc:567/gggg.nzk",
+            "playerType": 2,
+            "ua": "okhttp/3",
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+            "logo": "https://epg.112114.eu.org/logo/{name}.png"
+        },
+  	    	            {
+            "name": "④猫TV线路(IJK)",
+            "type": 0,
+            "url": "http://rihou.cc:567/gggg.nzk",
+            "playerType": 1,
+            "ua": "okhttp/3",
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+            "logo": "https://epg.112114.eu.org/logo/{name}.png"
+        },
+  	            {
+            "name": "新AKTV港台",
+            "type": 0,
+            "url": "http://aktv.top/live.m3u",
+            "playerType": 2,
+            "ua": "okhttp/3",
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+            "logo": "https://epg.112114.eu.org/logo/{name}.png"
+        },
+        {
+            "name": "IPTV研究所",
+            "type": 0,
+            "url": "https://www.mytvsuper.xyz/m3u/Live.m3u",
+            "playerType": 2,  
+            "ua": "okhttp/3",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+
+ {
+  "name":"抖音、斗鱼、B站、YY、Afreeca、Youtube",
+  "type":0,
+  "url":"https://tv.iill.top/m3u/Live",
+  "playerType":2,
+  "ua":"okhttp/3",
+  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
+  "logo":"https://epg.112114.eu.org/logo/{name}.png"
+  },
+
+  {
+  "name":"广东银河频道",
+  "type":0,
+  "url":"https://tzdr.com/iptv.txt",
+  "playerType":2,
+  "ua":"okhttp/3",
+  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
+  "logo":"https://epg.112114.eu.org/logo/{name}.png"
+  },
+
+  {
+  "name":"⑪V6明线路",
+  "type":0,
+  "url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+  "playerType":2,
+  "ua":"okhttp/3",
+  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
+  "logo":"https://epg.112114.eu.org/logo/{name}.png"
+  },
+  {
+  "name":"②⑥范明线路",
+  "type":0,
+  "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+  "playerType":2,
+  "ua":"okhttp/3",
+  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
+  "logo":"https://epg.112114.eu.org/logo/{name}.png"
+  },
+
+    {
+      "name": "③②备用虎牙",
+      "type": 0,
+      "url": "http://www.52sw.top:678/iptv/huya.m3u"
+    },
+    {
+      "name": "③③备用斗鱼",
+      "type": 0,
+      "url": "http://www.52sw.top:678/iptv/douyu.m3u"
+    },
+    {
+      "name": "③④16万MV",
+      "type": 0,
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt",
+      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://diyp2.112114.xyz/logo/{name}.png"
+    }
   ],  	"sites":[
 //{"key":"豆瓣","name":"豆瓣热播请关注公众号：“开心软件”","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./js/douban.js"},
     {"key":"豆瓣","name":"豆瓣热播请关注公众号：“开心软件”不迷路","type":3,"api":"csp_Douban","searchable":0,"changeable":1},
@@ -399,13 +492,6 @@
 {"key":"六月听书","name":"📚️听书┃六月","type":3,"api":"./lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/js/六月听书.js"},
 {"key": "csp_Kugou","name": "🐶┃酷狗","type": 3,"api": "csp_Kugou","searchable": 1,"changeable": 0},
 
-{"key": "hipy_js_KTV歌厅[听]","name": "🎤KTV歌厅(drpy_t3)","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./lib/js/KTV歌厅[听].js"},
-
-{"key": "DJ呦呦音乐网","name":"🎧DJ呦呦音乐","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/json/DJyyyyw.json"},
-
-{"key":"酷奇","name":"🎤酷奇┃MV","type": 3,"api":"./lib/drpy2.min.js","ext":"./lib/js/酷奇MV.js","style":{"type":"rect","ratio":1.597},"searchable": 0,"quickSearch": 0,"changeable":0},
-
-{"key": "js_a8音乐","name": "🎸A8音乐","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/js/a8yy.js"}
 ],
 
   "parses":[
