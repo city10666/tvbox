@@ -4,64 +4,7 @@
 	"spider": "./微信公众号开心软件",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
     "logo": "http://php.540734621.xyz/logo/logo.php",
-	"lives": [
-
- {
-  "name":"抖音、斗鱼、B站、YY、Afreeca、Youtube",
-  "type":0,
-  "url":"https://tv.iill.top/m3u/Live",
-  "playerType":2,
-  "ua":"okhttp/3",
-  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
-  "logo":"https://epg.112114.eu.org/logo/{name}.png"
-  },
-
-  {
-  "name":"广东银河频道",
-  "type":0,
-  "url":"https://tzdr.com/iptv.txt",
-  "playerType":2,
-  "ua":"okhttp/3",
-  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
-  "logo":"https://epg.112114.eu.org/logo/{name}.png"
-  },
-
-  {
-  "name":"⑪V6明线路",
-  "type":0,
-  "url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-  "playerType":2,
-  "ua":"okhttp/3",
-  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
-  "logo":"https://epg.112114.eu.org/logo/{name}.png"
-  },
-  {
-  "name":"②⑥范明线路",
-  "type":0,
-  "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
-  "playerType":2,
-  "ua":"okhttp/3",
-  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
-  "logo":"https://epg.112114.eu.org/logo/{name}.png"
-  },
-
-    {
-      "name": "③②备用虎牙",
-      "type": 0,
-      "url": "http://www.52sw.top:678/iptv/huya.m3u"
-    },
-    {
-      "name": "③③备用斗鱼",
-      "type": 0,
-      "url": "http://www.52sw.top:678/iptv/douyu.m3u"
-    },
-    {
-      "name": "③④16万MV",
-      "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt",
-      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://diyp2.112114.xyz/logo/{name}.png"
-    }
+	"lives":[
   ],  	"sites":[
 //{"key":"豆瓣","name":"豆瓣热播请关注公众号：“开心软件”","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./js/douban.js"},
     {"key":"豆瓣","name":"豆瓣热播请关注公众号：“开心软件”不迷路","type":3,"api":"csp_Douban","searchable":0,"changeable":1},
