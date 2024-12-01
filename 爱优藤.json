@@ -117,6 +117,12 @@
       "logo": "https://diyp2.112114.xyz/logo/{name}.png"
     }
   ],  	"sites":[
+//{"key":"豆瓣","name":"豆瓣热播请关注公众号：“开心软件”","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./js/douban.js"},
+    {"key":"豆瓣","name":"豆瓣热播请关注公众号：“开心软件”不迷路","type":3,"api":"csp_Douban","searchable":0,"changeable":1},
+
+{"key":"csp_LocalFile","name":"💻本地磁盘","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":0},
+{"key":"配置中心","name":"👨‍🍳‍配置┃中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"indexs":0,"style":{"type":"rect","ratio":1.43}},
+{"key": "lf_live10_min","name": "📺︎开心软件直播","type": 3,"searchable": 0,"quickSearch": 1,"filterable": 1,"changeable": 1,"api": "./lib/lf_live10_min-output.js","ext": "./lib/json/lf_live.json"},
 {"key":"爱奇异","name":"🎦爱奇艺(官)","type":3,"api":"./lib/drpy_libs/drpy2.min.js","ext":"./lib/js/爱奇艺.js"},
 {"key":"优酷","name":"🎦优酷(官)","type":3,"api":"./lib/drpy_libs/drpy2.min.js","ext":"./lib/js/优酷.js"},
 {"key":"腾讯","name":"🎦腾讯VIP(官)","type":3,"api":"./lib/drpy_libs/drpy2.min.js","ext":"./lib/js/腾讯VIP.js"},
