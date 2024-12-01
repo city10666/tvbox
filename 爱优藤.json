@@ -116,7 +116,7 @@
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
       "logo": "https://diyp2.112114.xyz/logo/{name}.png"
     }
-  ],  	"sites":[
+  ],  	"sites":[]
 //{"key":"豆瓣","name":"豆瓣热播请关注公众号：“开心软件”","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./js/douban.js"},
     {"key":"豆瓣","name":"豆瓣热播请关注公众号：“开心软件”不迷路","type":3,"api":"csp_Douban","searchable":0,"changeable":1},
 
