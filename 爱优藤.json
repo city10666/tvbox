@@ -4,7 +4,118 @@
 	"spider": "./微信公众号开心软件",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
     "logo": "http://php.540734621.xyz/logo/logo.php",
-	"lives":[
+	"lives": [{
+		    "name": "①live(EXO)",
+            "type":0,
+ 	        "url": "./lib/kx2024.txt",
+            "ua": "okhttp/3",
+            "playerType": 2,
+            "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+	    },
+  	    	            {
+            "name": "②Live(IJK)",
+            "type": 0,
+            "url": "./lib/kx2024.txt",
+            "playerType": 1,
+            "ua": "okhttp/3",
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+            "logo": "https://epg.112114.eu.org/logo/{name}.png"
+        },
+
+  	    	            {
+            "name": "③猫TV线路(EXO)",
+            "type": 0,
+            "url": "http://rihou.cc:567/gggg.nzk",
+            "playerType": 2,
+            "ua": "okhttp/3",
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+            "logo": "https://epg.112114.eu.org/logo/{name}.png"
+        },
+  	    	            {
+            "name": "④猫TV线路(IJK)",
+            "type": 0,
+            "url": "http://rihou.cc:567/gggg.nzk",
+            "playerType": 1,
+            "ua": "okhttp/3",
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+            "logo": "https://epg.112114.eu.org/logo/{name}.png"
+        },
+  	            {
+            "name": "新AKTV港台",
+            "type": 0,
+            "url": "http://aktv.top/live.m3u",
+            "playerType": 2,
+            "ua": "okhttp/3",
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+            "logo": "https://epg.112114.eu.org/logo/{name}.png"
+        },
+        {
+            "name": "IPTV研究所",
+            "type": 0,
+            "url": "https://www.mytvsuper.xyz/m3u/Live.m3u",
+            "playerType": 2,  
+            "ua": "okhttp/3",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+
+ {
+  "name":"抖音、斗鱼、B站、YY、Afreeca、Youtube",
+  "type":0,
+  "url":"https://tv.iill.top/m3u/Live",
+  "playerType":2,
+  "ua":"okhttp/3",
+  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
+  "logo":"https://epg.112114.eu.org/logo/{name}.png"
+  },
+
+  {
+  "name":"广东银河频道",
+  "type":0,
+  "url":"https://tzdr.com/iptv.txt",
+  "playerType":2,
+  "ua":"okhttp/3",
+  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
+  "logo":"https://epg.112114.eu.org/logo/{name}.png"
+  },
+
+  {
+  "name":"⑪V6明线路",
+  "type":0,
+  "url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+  "playerType":2,
+  "ua":"okhttp/3",
+  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
+  "logo":"https://epg.112114.eu.org/logo/{name}.png"
+  },
+  {
+  "name":"②⑥范明线路",
+  "type":0,
+  "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+  "playerType":2,
+  "ua":"okhttp/3",
+  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
+  "logo":"https://epg.112114.eu.org/logo/{name}.png"
+  },
+
+    {
+      "name": "③②备用虎牙",
+      "type": 0,
+      "url": "http://www.52sw.top:678/iptv/huya.m3u"
+    },
+    {
+      "name": "③③备用斗鱼",
+      "type": 0,
+      "url": "http://www.52sw.top:678/iptv/douyu.m3u"
+    },
+    {
+      "name": "③④16万MV",
+      "type": 0,
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt",
+      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://diyp2.112114.xyz/logo/{name}.png"
+    }
   ],  	"sites":[
 //{"key":"豆瓣","name":"豆瓣热播请关注公众号：“开心软件”","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./js/douban.js"},
     {"key":"豆瓣","name":"豆瓣热播请关注公众号：“开心软件”不迷路","type":3,"api":"csp_Douban","searchable":0,"changeable":1},
@@ -152,7 +263,6 @@
 {"key":"圣城影视","name":"🎦圣城","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/json/sc1080.json"},
 {"key":"米爱影视","name":"🎦米爱","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/json/miaiys.json"},
 {"key":"HDmoli","name":"🎦魔力高清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/json/HDmoli.json"},
-{"key": "高清在线","name": "🎦高清在线","type": 3,"api": "csp_XBPQ","ext": {"简介":"剧情介绍: +stui-pannel_bd\">&&</div>","线路数组":"stui-pannel__head bottom-line active clearfix\">&&</div>","分类url": "https://www.gxfiber.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类": "短剧$duanju#电视剧$dsj#电影$dy#动漫$dm#综艺$zy"}},
 {"key":"lzi","name":"🎦量子资源","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/json/liangzi.json"},
 {"key":"csp_xBPQ睛天影视","name":"🎦睛天影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/json/睛天影视.json"},
 {"key":"非凡资源","name":"🎦非凡资源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/json/ffzy.json"},
