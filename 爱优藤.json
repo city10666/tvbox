@@ -1,14 +1,14 @@
 {
   "sites": [
     {
-      "key": "爱奇异",
-      "name": "🎦爱奇艺(官)",
-      "type": 3,
-      "api": "./lib/drpy_libs/drpy2.min.js",
+      "key": "点播源",
+      "name": "点播源",
+      "type": 0,
+      "api": "https://www.8090g.cn/jiexi/?url=",
+      "playUrl": "https://www.mgtv.com/",
       "searchable": 1,
-      "changeable": 1,
-      "playerType": 2,
-      "ext": "./lib/js/爱奇艺.js",
+      "quickSearch": 1,
+      "filterable": 1,
       "categories": [
         "国产剧",
         "港台剧",
@@ -271,6 +271,5 @@
     "qiu.xixiqiu.com",
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
-  ],
-  "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302"
+  ]
 }
