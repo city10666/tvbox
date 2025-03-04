@@ -163,91 +163,17 @@
     {
       "name": "解析线路2",
       "type": 0,
-      "url": "https://yparse.ik9.cc/index.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "imgo",
-          "rx",
-          "ltnb",
-          "bilibili",
-          "1905",
-          "xigua"
-        ]
-      }
+      "url": "https://yparse.ik9.cc/index.php?url="
     },
     {
       "name": "解析线路3",
       "type": 0,
-      "url": "https://www.nanguady.cc/jiexi/jiexi-gf/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "imgo",
-          "rx",
-          "ltnb",
-          "bilibili",
-          "1905",
-          "xigua"
-        ]
-      }
+      "url": "https://www.nanguady.cc/jiexi/jiexi-gf/?url="
     },
     {
       "name": "kingworldhotel",
       "type": 0,
-      "url": "http://www.kingworldhotel.cn/jiexi/jiexi-gf/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "imgo",
-          "rx",
-          "ltnb",
-          "bilibili",
-          "1905",
-          "xigua"
-        ]
-      }
-    },
-    {
-      "name": "Json聚合",
-      "type": 3,
-      "url": "Demo"
+      "url": "http://www.kingworldhotel.cn/jiexi/jiexi-gf/?url="
     },
     {
       "name": "虾米",
