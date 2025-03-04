@@ -157,22 +157,22 @@
   "parses": [
     {
       "name": "解析线路1",
-      "type": 1,
+      "type": 0,
       "url": "https://jx.xmflv.com/?url="
     },
     {
       "name": "解析线路2",
-      "type": 1,
+      "type": 0,
       "url": "https://yparse.ik9.cc/index.php?url="
     },
     {
       "name": "解析线路3",
-      "type": 1,
+      "type": 0,
       "url": "https://www.nanguady.cc/jiexi/jiexi-gf/?url="
     },
     {
       "name": "解析线路3-2",
-      "type": 1,
+      "type": 0,
       "url": "http://www.kingworldhotel.cn/jiexi/jiexi-gf/?url="
     },
     {
@@ -249,7 +249,7 @@
     },
     {
       "name": "im1907",
-      "type": 1,
+      "type": 0,
       "url": "https://im1907.top/?jx=",
       "ext": {
         "flag": [
@@ -320,7 +320,7 @@
     },
     {
       "name": "巧技",
-      "type": 1,
+      "type": 0,
       "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
       "ext": {
         "flag": [
@@ -349,7 +349,7 @@
     },
     {
       "name": "巧技二",
-      "type": 1,
+      "type": 0,
       "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url=",
       "ext": {
         "flag": [
