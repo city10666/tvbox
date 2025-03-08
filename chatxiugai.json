@@ -161,7 +161,7 @@
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
         "header": {
-          "User-Agent": "Mozilla/5.0 (Linux; Android; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Mobile Safari/537.36"
+          "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
         }
       }
     },
@@ -171,7 +171,7 @@
       "url": "https://yparse.ik9.cc/index.php?url=",
       "ext": {
         "header": {
-          "User-Agent": "Mozilla/5.0 (Linux; Android; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Mobile Safari/537.36"
+          "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
         }
       }
     },
@@ -181,7 +181,7 @@
       "url": "https://www.nanguady.cc/jiexi/jiexi-gf/?url=",
       "ext": {
         "header": {
-          "User-Agent": "Mozilla/5.0 (Linux; Android; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Mobile Safari/537.36"
+          "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
         }
       }
     },
@@ -191,7 +191,7 @@
       "url": "https://jx.973973.xyz/?url=",
       "ext": {
         "header": {
-          "User-Agent": "Mozilla/5.0 (Linux; Android; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Mobile Safari/537.36"
+          "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
         }
       }
     },
@@ -200,27 +200,9 @@
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "imgo",
-          "rx",
-          "ltnb",
-          "bilibili",
-          "1905",
-          "xigua"
-        ]
+        "header": {
+          "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
+        }
       }
     },
     {
@@ -228,32 +210,8 @@
       "type": 0,
       "url": "https://www.playm3u8.cn/jiexi.php?url=",
       "ext": {
-        "flag": [
-          "qiyi",
-          "imgo",
-          "爱奇艺",
-          "奇艺",
-          "qq",
-          "腾讯",
-          "youku",
-          "优酷",
-          "pptv",
-          "PPTV",
-          "letv",
-          "乐视",
-          "leshi",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩",
-          "mgtv",
-          "芒果",
-          "sohu",
-          "xigua",
-          "fun",
-          "风行"
-        ],
         "header": {
-          "User-Agent": "Mozilla/5.0"
+          "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
         }
       }
     },
@@ -263,7 +221,7 @@
       "url": "https://jx.m3u8.tv/jiexi/?url=",
       "ext": {
         "header": {
-          "User-Agent": "Mozilla/5.0 (Linux; Android; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Mobile Safari/537.36"
+          "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
         }
       }
     },
@@ -273,7 +231,7 @@
       "url": "https://www.8090g.cn/jiexi/?url=",
       "ext": {
         "header": {
-          "User-Agent": "Mozilla/5.0 (Linux; Android; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Mobile Safari/537.36"
+          "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
         }
       }
     },
@@ -283,7 +241,7 @@
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
         "header": {
-          "User-Agent": "Mozilla/5.0 (Linux; Android; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Mobile Safari/537.36"
+          "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
         }
       }
     },
@@ -293,7 +251,7 @@
       "url": "https://jx.xymp4.cc/?url=",
       "ext": {
         "header": {
-          "User-Agent": "Mozilla/5.0 (Linux; Android; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Mobile Safari/537.36"
+          "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
         }
       }
     },
@@ -303,7 +261,7 @@
       "url": "https://yparse.ik9.cc/index.php?url=",
       "ext": {
         "header": {
-          "User-Agent": "Mozilla/5.0 (Linux;Android5;Build/TP1A) AppleWebKit/537.36 (KHTML,likeGecko) Chrome/116.0.0.0 MobileSafari/537.36"
+          "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
         }
       }
     },
@@ -313,7 +271,7 @@
       "url": "https://jx.dmflv.cc/?url=",
       "ext": {
         "header": {
-          "User-Agent": "Mozilla/5.0 (Linux; Android; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Mobile Safari/537.36"
+          "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
         }
       }
     },
@@ -322,27 +280,8 @@
       "type": 0,
       "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
       "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905"
-        ],
         "header": {
-          "User-Agent": "okhttp/4.9.1"
+          "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
         }
       }
     },
@@ -351,28 +290,8 @@
       "type": 0,
       "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url=",
       "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905",
-          "NetFilx"
-        ],
         "header": {
-          "User-Agent": "okhttp/4.9.1"
+          "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
         }
       }
     }
