@@ -161,7 +161,7 @@
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
         "header": {
-          "User-Agent": "Mozilla/5.0 (Linux;Android5;Build/TP1A) AppleWebKit/537.36 (KHTML,likeGecko) Chrome/116.0.0.0 MobileSafari/537.36"
+          "User-Agent": "Mozilla/5.0 (Linux; Android; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Mobile Safari/537.36"
         }
       }
     },
@@ -171,7 +171,7 @@
       "url": "https://yparse.ik9.cc/index.php?url=",
       "ext": {
         "header": {
-          "User-Agent": "Mozilla/5.0 (Linux;Android5;Build/TP1A) AppleWebKit/537.36 (KHTML,likeGecko) Chrome/116.0.0.0 MobileSafari/537.36"
+          "User-Agent": "Mozilla/5.0 (Linux; Android; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Mobile Safari/537.36"
         }
       }
     },
@@ -181,7 +181,7 @@
       "url": "https://www.nanguady.cc/jiexi/jiexi-gf/?url=",
       "ext": {
         "header": {
-          "User-Agent": "Mozilla/5.0 (Linux;Android5;Build/TP1A) AppleWebKit/537.36 (KHTML,likeGecko) Chrome/116.0.0.0 MobileSafari/537.36"
+          "User-Agent": "Mozilla/5.0 (Linux; Android; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Mobile Safari/537.36"
         }
       }
     },
@@ -191,7 +191,7 @@
       "url": "https://jx.973973.xyz/?url=",
       "ext": {
         "header": {
-          "User-Agent": "Mozilla/5.0 (Linux;Android5;Build/TP1A) AppleWebKit/537.36 (KHTML,likeGecko) Chrome/116.0.0.0 MobileSafari/537.36"
+          "User-Agent": "Mozilla/5.0 (Linux; Android; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Mobile Safari/537.36"
         }
       }
     },
@@ -263,7 +263,7 @@
       "url": "https://jx.m3u8.tv/jiexi/?url=",
       "ext": {
         "header": {
-          "User-Agent": "Mozilla/5.0 (Linux;Android5;Build/TP1A) AppleWebKit/537.36 (KHTML,likeGecko) Chrome/116.0.0.0 MobileSafari/537.36"
+          "User-Agent": "Mozilla/5.0 (Linux; Android; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Mobile Safari/537.36"
         }
       }
     },
@@ -273,7 +273,7 @@
       "url": "https://www.8090g.cn/jiexi/?url=",
       "ext": {
         "header": {
-          "User-Agent": "Mozilla/5.0 (Linux;Android5;Build/TP1A) AppleWebKit/537.36 (KHTML,likeGecko) Chrome/116.0.0.0 MobileSafari/537.36"
+          "User-Agent": "Mozilla/5.0 (Linux; Android; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Mobile Safari/537.36"
         }
       }
     },
@@ -283,7 +283,7 @@
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
         "header": {
-          "User-Agent": "Mozilla/5.0 (Linux;Android5;Build/TP1A) AppleWebKit/537.36 (KHTML,likeGecko) Chrome/116.0.0.0 MobileSafari/537.36"
+          "User-Agent": "Mozilla/5.0 (Linux; Android; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Mobile Safari/537.36"
         }
       }
     },
@@ -293,8 +293,7 @@
       "url": "https://jx.xymp4.cc/?url=",
       "ext": {
         "header": {
-          "User-Agent": "Mozilla/5.0 (Linux;Android5;Build/TP1A) AppleWebKit/537.36 (KHTML,likeGecko) Chrome/116.0.0.0 MobileSafari/537.36",
-          "referer": "jx.xymp4.cc/"
+          "User-Agent": "Mozilla/5.0 (Linux; Android; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Mobile Safari/537.36"
         }
       }
     },
@@ -314,8 +313,7 @@
       "url": "https://jx.dmflv.cc/?url=",
       "ext": {
         "header": {
-          "User-Agent": "Mozilla/5.0 (Linux;Android5;Build/TP1A) AppleWebKit/537.36 (KHTML,likeGecko) Chrome/116.0.0.0 MobileSafari/537.36",
-          "referer": "https://jiejie.uk/"
+          "User-Agent": "Mozilla/5.0 (Linux; Android; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Mobile Safari/537.36"
         }
       }
     },
