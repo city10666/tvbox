@@ -258,7 +258,7 @@
       "url": "https://jx.xymp4.cc/?url=",
       "ext": {
         "header": {
-          "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36",
+          "User-Agent": "Mozilla/5.0 (Linux;Android5;Build/TP1A) AppleWebKit/537.36 (KHTML,likeGecko) Chrome/116.0.0.0 MobileSafari/537.36",
           "referer": "https://www.xyflv.cc/"
         }
       }
@@ -269,7 +269,7 @@
       "url": "https://yparse.ik9.cc/index.php?url=",
       "ext": {
         "header": {
-          "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
+          "User-Agent": "Mozilla/5.0 (Linux;Android5;Build/TP1A) AppleWebKit/537.36 (KHTML,likeGecko) Chrome/116.0.0.0 MobileSafari/537.36"
         }
       }
     },
@@ -279,7 +279,7 @@
       "url": "https://jx.dmflv.cc/?url=",
       "ext": {
         "header": {
-          "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36",
+          "User-Agent": "Mozilla/5.0 (Linux;Android5;Build/TP1A) AppleWebKit/537.36 (KHTML,likeGecko) Chrome/116.0.0.0 MobileSafari/537.36",
           "referer": "https://jiejie.uk/"
         }
       }
