@@ -158,22 +158,42 @@
     {
       "name": "解析线路1",
       "type": 0,
-      "url": "https://jx.xmflv.com/?url="
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "header": {
+          "User-Agent": "Mozilla/5.0 (Linux;Android5;Build/TP1A) AppleWebKit/537.36 (KHTML,likeGecko) Chrome/116.0.0.0 MobileSafari/537.36"
+        }
+      }
     },
     {
       "name": "解析线路2",
       "type": 0,
-      "url": "https://yparse.ik9.cc/index.php?url="
+      "url": "https://yparse.ik9.cc/index.php?url=",
+      "ext": {
+        "header": {
+          "User-Agent": "Mozilla/5.0 (Linux;Android5;Build/TP1A) AppleWebKit/537.36 (KHTML,likeGecko) Chrome/116.0.0.0 MobileSafari/537.36"
+        }
+      }
     },
     {
       "name": "解析线路3",
       "type": 0,
-      "url": "https://www.nanguady.cc/jiexi/jiexi-gf/?url="
+      "url": "https://www.nanguady.cc/jiexi/jiexi-gf/?url=",
+      "ext": {
+        "header": {
+          "User-Agent": "Mozilla/5.0 (Linux;Android5;Build/TP1A) AppleWebKit/537.36 (KHTML,likeGecko) Chrome/116.0.0.0 MobileSafari/537.36"
+        }
+      }
     },
     {
       "name": "973973",
       "type": 0,
-      "url": "https://jx.973973.xyz/?url="
+      "url": "https://jx.973973.xyz/?url=",
+      "ext": {
+        "header": {
+          "User-Agent": "Mozilla/5.0 (Linux;Android5;Build/TP1A) AppleWebKit/537.36 (KHTML,likeGecko) Chrome/116.0.0.0 MobileSafari/537.36"
+        }
+      }
     },
     {
       "name": "虾米",
@@ -240,17 +260,32 @@
     {
       "name": "m3u8",
       "type": 0,
-      "url": "https://jx.m3u8.tv/jiexi/?url="
+      "url": "https://jx.m3u8.tv/jiexi/?url=",
+      "ext": {
+        "header": {
+          "User-Agent": "Mozilla/5.0 (Linux;Android5;Build/TP1A) AppleWebKit/537.36 (KHTML,likeGecko) Chrome/116.0.0.0 MobileSafari/537.36"
+        }
+      }
     },
     {
       "name": "8090",
       "type": 0,
-      "url": "https://www.8090g.cn/jiexi/?url="
+      "url": "https://www.8090g.cn/jiexi/?url=",
+      "ext": {
+        "header": {
+          "User-Agent": "Mozilla/5.0 (Linux;Android5;Build/TP1A) AppleWebKit/537.36 (KHTML,likeGecko) Chrome/116.0.0.0 MobileSafari/537.36"
+        }
+      }
     },
     {
       "name": "看看",
       "type": 0,
-      "url": "https://jx.xmflv.com/?url="
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "header": {
+          "User-Agent": "Mozilla/5.0 (Linux;Android5;Build/TP1A) AppleWebKit/537.36 (KHTML,likeGecko) Chrome/116.0.0.0 MobileSafari/537.36"
+        }
+      }
     },
     {
       "name": "咸鱼",
@@ -259,7 +294,7 @@
       "ext": {
         "header": {
           "User-Agent": "Mozilla/5.0 (Linux;Android5;Build/TP1A) AppleWebKit/537.36 (KHTML,likeGecko) Chrome/116.0.0.0 MobileSafari/537.36",
-          "referer": "https://www.xyflv.cc/"
+          "referer": "jx.xymp4.cc/"
         }
       }
     },
